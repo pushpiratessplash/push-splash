@@ -29,7 +29,7 @@ $(document).ready(function() {
 		setTimeout(function() {
 			var s = document.createElement("script");
 			s.type = "text/javascript";
-			s.src = "//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5eeed4279d4dd544";
+			s.src = "//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5eeed4279d4dd544"; 
 			$("body").append(s);
 		}, 4600);
 
