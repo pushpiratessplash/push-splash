@@ -435,3 +435,9 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 img.img-fluid {
   height:100% !important;
 }
+
+.logobanner {
+    
+    font-weight: bolder
+}
+
